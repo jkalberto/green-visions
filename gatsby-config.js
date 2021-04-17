@@ -17,13 +17,9 @@ module.exports = {
       // See the theme's README for all available options
       options: {},
     },  
-   
-        
-     
-        
-      
-    },
-    {
+         
+             
+              {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
